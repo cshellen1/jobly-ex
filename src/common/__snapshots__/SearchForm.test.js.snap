@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="input-group mb-3 m-2"
+    >
+      <input
+        aria-describedby="button-addon2"
+        aria-label="search"
+        class="form-control"
+        name="searchItem"
+        placeholder="search item"
+        type="text"
+        value=""
+      />
+      <div
+        class="input-group-append"
+      >
+        <button
+          class="btn btn-primary"
+          id="submit-btn"
+          type="submit"
+        >
+          Search
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
